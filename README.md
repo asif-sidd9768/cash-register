@@ -4,3 +4,6 @@ So, you enter the bill amount and amount given by the customer it'll tell what n
 
 ## Tech Stack
 > HTML, CSS, JavaScript, ReactJS.
+
+## Demo
+![alt text](https://i.ibb.co/NV6ZrJM/Screenshot-2022-09-22-at-3-29-24-PM.png)
